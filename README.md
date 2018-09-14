@@ -28,10 +28,10 @@ use Google Trend to find the total number of days that the search query are equa
 ### Reddit 
 
 ## Authors
-Hong Li 
-Niño Leonard J Yosinao
-Ahmad Bou Merhi
-Yanin Swangrujithum 
+* Hong Li 
+* Niño Leonard J Yosinao
+* Ahmad Bou Merhi
+* Yanin Swangrujithum 
 
 ## Acknowledgements
 * https://github.com/GeneralMills/pytrends
